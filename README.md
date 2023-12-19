@@ -1,3 +1,3 @@
 # Google-Landing-Page-Project
 
-https://muratakdag.github.io/Google-Landing-Page-Project/
+https://maydindev.github.io/google-landing-page/
